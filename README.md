@@ -14,3 +14,7 @@ Just trying out github for the first time.. pretty excited about it!
 => Laravel cheat sheet
 	http://cheats.jesse-obrien.ca/
 => UI libraries : UIbox http://www.uibox.in/item/50
+
+
+# product display.
+http://tympanus.net/Development/MockupSlideshow/index4.html

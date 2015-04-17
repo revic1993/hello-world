@@ -18,3 +18,5 @@ Just trying out github for the first time.. pretty excited about it!
 
 # product display.
 http://tympanus.net/Development/MockupSlideshow/index4.html
+
+http://www.freshdesignweb.com/jquery-image-slider-slideshow.html
